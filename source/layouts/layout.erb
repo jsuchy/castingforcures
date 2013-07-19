@@ -14,7 +14,24 @@
     <%= javascript_include_tag  "all" %>
   </head>
 
+  <header>
+  <div class="container">
+    <a href="/" class="logo-wrap">
+      <span class="logo"></span>
+    </a>
+    <div class="toggle-nav"></div>
+    <nav>
+      <ul>
+        <li><a href="/">Blog</a></li>
+        <li><a href="/projects">Projects</a></li>
+      </ul>
+    </nav>
+  </div>
+  </header>
+
   <body class="<%= page_classes %>">
-    <%= yield %>
+    <div class="container">
+      <%= yield %>
+    </div>
   </body>
 </html>
