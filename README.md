@@ -3,7 +3,7 @@
   + http://git-scm.com/downloads
 * Ruby 1.9+
   + http://www.ruby-lang.org/en/downloads
-  + ALternatively, you may want to setup RVM: https://rvm.io/rvm/install
+  + Alternatively, you may want to setup RVM: https://rvm.io/rvm/install
 * Bundler
   + http://bundler.io
 
