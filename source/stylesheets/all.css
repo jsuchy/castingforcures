@@ -50,8 +50,12 @@ header .container {
   margin: 8% 0 8% 0;
 }
 
-.macc {
-  margin: 6% 0;
+.macc { margin: 6% 0; }
+
+.address {
+  font-size: 80%;
+  line-height: 1.6em;
+  margin: 2% 3%;
 }
 
 /*  #Logo
@@ -71,9 +75,7 @@ header h1 {
 
 /*  #Navigation
 -------------------------------------------------------------- */
-nav {
-  float: right;
-}
+nav { float: right; }
 
 nav ul {
   list-style: none;
