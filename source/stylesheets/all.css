@@ -238,8 +238,20 @@ a:hover {
     margin-left: 0;
     text-align: center;
   }
+
   nav li:last-child {
     border-bottom: none;
+  }
+
+  .left-image,
+  .right-image {
+    float: none;
+    margin: 0;
+  }
+
+  .left-image img,
+  .right-image img {
+    width: 100%;
   }
 
   .column {
