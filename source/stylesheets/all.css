@@ -46,6 +46,10 @@ header .container {
   width: 48.5%;
 }
 
+.third {
+  width: 31.3%;
+}
+
 .macc { margin: 6% 0; }
 
 .address {
@@ -204,6 +208,12 @@ a:hover {
 .row,
 .cf {
   *zoom: 1;
+}
+
+/*  #Sponsors
+-------------------------------------------------------------- */
+.sponsor-group {
+  margin-bottom: 1em;
 }
 
 /*  #RWD
