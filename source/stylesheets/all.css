@@ -220,7 +220,18 @@ a:hover {
 }
 
 .sponsor-group {
+  background: #f8f8f8;
+  -moz-border-radius; 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  border: 1px solid #ddd;
   margin-bottom: 1em;
+  min-height: 205px;
+  padding: 1em;
+}
+
+.sponsor-group ul {
+  padding-left: 1em;
 }
 
 /*  #RWD
