@@ -58,6 +58,19 @@ header .container {
   margin: 2% 3%;
 }
 
+.photos img {
+  width: 100%;
+}
+
+.photos p {
+  font-size: 80%;
+  font-style: italic;
+}
+
+.photos .row {
+  margin-bottom: 1%;
+}
+
 .left-image {
   float: left;
   margin: 1% 3% 0 0;
